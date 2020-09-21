@@ -1,19 +1,11 @@
 __pycache__
 .ipynb_checkpoints*
 *-checkpoint.ipynb
-cache
-data
-results
-models
-*.log
-*.slurm
-definitions*.json
-comparison*.png
-config*.json
-*.db
-*.sublime-project
-*.sublime-workspace
 .DS_Store
 
+cache
+configs
+data
+databases
 models/avocado-chr*.h5
 models/avocado-chr*.json
