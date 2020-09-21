@@ -1,0 +1,20 @@
+{
+  "encoders": "models/models.json",
+  "datasets": [
+    {
+      "filepath": "data/E116-DNase.fc.signal.bigWig",
+      "content_type": "5kb-chr1",
+      "id": "roadmap-epigenomics-gm12878-e116-dnase-fc",
+      "name": "GM12878 DNase fc"
+    },
+    {
+      "filepath": "data/E116-H3K27ac.fc.signal.bigWig",
+      "id": "roadmap-epigenomics-gm12878-e116-h3k27ac-fc",
+      "name": "GM12878 H3K27ac fc"
+    }
+  ],
+  "coords": "hg19",
+  "chroms": ["chr1"],
+  "step_freq": 2,
+  "db_path": "databases/search-e116-dnase-h3k27ac-chr1.db"
+}
