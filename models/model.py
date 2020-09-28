@@ -3,6 +3,7 @@ import json
 import keras
 import math
 import numpy as np
+import os
 
 NUM_WINDOWS_PER_BATCH = 10000 # Random number, 10000 just seem to work fine on my laptop
 RESOLUTION = 25 # Base resolution of the Avocado model
@@ -163,7 +164,7 @@ class Model(Avocado):
         model.experiments = experiments
         model.model = keras.models.load_model('{}.h5'.format(name))
 
-        _, chromosome = name.split('-')
+        _, chromosome = os.path.basename(name).split('-')
         model.chromosome = chromosome
         model.chromosome_size = CHROM_SIZES[chromosome]
 
