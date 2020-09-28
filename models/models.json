@@ -1,7 +1,7 @@
 {
   "5kb-chr1": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr1"],
+    "model_args": ["{base_data_dir}/models/avocado-chr1"],
     "content_type": "5kb-chr1",
     "window_size": 5000,
     "resolution": 25,
@@ -11,7 +11,7 @@
   },
   "5kb-chr2": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr2"],
+    "model_args": ["{base_data_dir}/models/avocado-chr2"],
     "content_type": "5kb-chr2",
     "window_size": 5000,
     "resolution": 25,
@@ -21,7 +21,7 @@
   },
   "5kb-chr3": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr3"],
+    "model_args": ["{base_data_dir}/models/avocado-chr3"],
     "content_type": "5kb-chr3",
     "window_size": 5000,
     "resolution": 25,
@@ -31,7 +31,7 @@
   },
   "5kb-chr4": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr4"],
+    "model_args": ["{base_data_dir}/models/avocado-chr4"],
     "content_type": "5kb-chr4",
     "window_size": 5000,
     "resolution": 25,
@@ -41,7 +41,7 @@
   },
   "5kb-chr5": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr5"],
+    "model_args": ["{base_data_dir}/models/avocado-chr5"],
     "content_type": "5kb-chr5",
     "window_size": 5000,
     "resolution": 25,
@@ -51,7 +51,7 @@
   },
   "5kb-chr6": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr6"],
+    "model_args": ["{base_data_dir}/models/avocado-chr6"],
     "content_type": "5kb-chr6",
     "window_size": 5000,
     "resolution": 25,
@@ -61,7 +61,7 @@
   },
   "5kb-chr7": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr7"],
+    "model_args": ["{base_data_dir}/models/avocado-chr7"],
     "content_type": "5kb-chr7",
     "window_size": 5000,
     "resolution": 25,
@@ -71,7 +71,7 @@
   },
   "5kb-chr8": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr8"],
+    "model_args": ["{base_data_dir}/models/avocado-chr8"],
     "content_type": "5kb-chr8",
     "window_size": 5000,
     "resolution": 25,
@@ -81,7 +81,7 @@
   },
   "5kb-chr9": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr9"],
+    "model_args": ["{base_data_dir}/models/avocado-chr9"],
     "content_type": "5kb-chr9",
     "window_size": 5000,
     "resolution": 25,
@@ -91,7 +91,7 @@
   },
   "5kb-chr10": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr10"],
+    "model_args": ["{base_data_dir}/models/avocado-chr10"],
     "content_type": "5kb-chr10",
     "window_size": 5000,
     "resolution": 25,
@@ -101,7 +101,7 @@
   },
   "5kb-chr11": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr11"],
+    "model_args": ["{base_data_dir}/models/avocado-chr11"],
     "content_type": "5kb-chr11",
     "window_size": 5000,
     "resolution": 25,
@@ -111,7 +111,7 @@
   },
   "5kb-chr12": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr12"],
+    "model_args": ["{base_data_dir}/models/avocado-chr12"],
     "content_type": "5kb-chr12",
     "window_size": 5000,
     "resolution": 25,
@@ -121,7 +121,7 @@
   },
   "5kb-chr13": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr13"],
+    "model_args": ["{base_data_dir}/models/avocado-chr13"],
     "content_type": "5kb-chr13",
     "window_size": 5000,
     "resolution": 25,
@@ -131,7 +131,7 @@
   },
   "5kb-chr14": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr14"],
+    "model_args": ["{base_data_dir}/models/avocado-chr14"],
     "content_type": "5kb-chr14",
     "window_size": 5000,
     "resolution": 25,
@@ -141,7 +141,7 @@
   },
   "5kb-chr15": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr15"],
+    "model_args": ["{base_data_dir}/models/avocado-chr15"],
     "content_type": "5kb-chr15",
     "window_size": 5000,
     "resolution": 25,
@@ -151,7 +151,7 @@
   },
   "5kb-chr16": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr16"],
+    "model_args": ["{base_data_dir}/models/avocado-chr16"],
     "content_type": "5kb-chr16",
     "window_size": 5000,
     "resolution": 25,
@@ -161,7 +161,7 @@
   },
   "5kb-chr17": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr17"],
+    "model_args": ["{base_data_dir}/models/avocado-chr17"],
     "content_type": "5kb-chr17",
     "window_size": 5000,
     "resolution": 25,
@@ -171,7 +171,7 @@
   },
   "5kb-chr18": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr18"],
+    "model_args": ["{base_data_dir}/models/avocado-chr18"],
     "content_type": "5kb-chr18",
     "window_size": 5000,
     "resolution": 25,
@@ -181,7 +181,7 @@
   },
   "5kb-chr19": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr19"],
+    "model_args": ["{base_data_dir}/models/avocado-chr19"],
     "content_type": "5kb-chr19",
     "window_size": 5000,
     "resolution": 25,
@@ -191,7 +191,7 @@
   },
   "5kb-chr20": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr20"],
+    "model_args": ["{base_data_dir}/models/avocado-chr20"],
     "content_type": "5kb-chr20",
     "window_size": 5000,
     "resolution": 25,
@@ -201,7 +201,7 @@
   },
   "5kb-chr21": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr21"],
+    "model_args": ["{base_data_dir}/models/avocado-chr21"],
     "content_type": "5kb-chr21",
     "window_size": 5000,
     "resolution": 25,
@@ -211,7 +211,7 @@
   },
   "5kb-chr22": {
     "encoder": "Model",
-    "model_args": ["avocado_data/models/avocado-chr22"],
+    "model_args": ["{base_data_dir}/models/avocado-chr22"],
     "content_type": "5kb-chr22",
     "window_size": 5000,
     "resolution": 25,
